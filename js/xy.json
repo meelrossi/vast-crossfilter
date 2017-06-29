@@ -1,0 +1,237 @@
+[
+  {
+    "x": 309,
+    "y": 69,
+    "count": 6576
+  },
+  {
+    "x": 89,
+    "y": 333,
+    "count": 6267
+  },
+  {
+    "x": 899,
+    "y": 429,
+    "count": 7133
+  },
+  {
+    "x": 567,
+    "y": 819,
+    "count": 8531
+  },
+  {
+    "x": 688,
+    "y": 904,
+    "count": 6953
+  },
+  {
+    "name": "general-gate0",
+    "x": 541,
+    "y": 51,
+    "count": 216
+  },
+  {
+    "name": "general-gate1",
+    "x": 319,
+    "y": 128,
+    "count": 14677
+  },
+  {
+    "name": "general-gate2",
+    "x": 512,
+    "y": 161,
+    "count": 14801
+  },
+  {
+    "name": "general-gate3",
+    "x": 913,
+    "y": 276,
+    "count": 859
+  },
+  {
+    "name": "general-gate4",
+    "x": 341,
+    "y": 482,
+    "count": 10974
+  },
+  {
+    "name": "general-gate5",
+    "x": 611,
+    "y": 547,
+    "count": 9435
+  },
+  {
+    "name": "general-gate6",
+    "x": 669,
+    "y": 673,
+    "count": 2194
+  },
+  {
+    "name": "general-gate7",
+    "x": 323,
+    "y": 708,
+    "count": 16119
+  },
+  {
+    "name": "ranger-stop0",
+    "x": 440,
+    "y": 83,
+    "count": 15078
+  },
+  {
+    "name": "ranger-stop1",
+    "x": 98,
+    "y": 124,
+    "count": 466
+  },
+  {
+    "name": "ranger-stop2",
+    "x": 395,
+    "y": 174,
+    "count": 15019
+  },
+  {
+    "name": "ranger-stop3",
+    "x": 727,
+    "y": 223,
+    "count": 1236
+  },
+  {
+    "name": "ranger-stop4",
+    "x": 93,
+    "y": 467,
+    "count": 612
+  },
+  {
+    "name": "ranger-stop5",
+    "x": 741,
+    "y": 583,
+    "count": 920
+  },
+  {
+    "name": "ranger-stop6",
+    "x": 606,
+    "y": 723,
+    "count": 1878
+  },
+  {
+    "name": "ranger-stop7",
+    "x": 494,
+    "y": 746,
+    "count": 672
+  },
+  {
+    "name": "camping0",
+    "x": 258,
+    "y": 206,
+    "count": 1590
+  },
+  {
+    "name": "camping1",
+    "x": 635,
+    "y": 249,
+    "count": 340
+  },
+  {
+    "name": "camping2",
+    "x": 219,
+    "y": 317,
+    "count": 2280
+  },
+  {
+    "name": "camping3",
+    "x": 225,
+    "y": 337,
+    "count": 2464
+  },
+  {
+    "name": "camping4",
+    "x": 239,
+    "y": 440,
+    "count": 2772
+  },
+  {
+    "name": "camping5",
+    "x": 103,
+    "y": 596,
+    "count": 3184
+  },
+  {
+    "name": "camping6",
+    "x": 738,
+    "y": 869,
+    "count": 2465
+  },
+  {
+    "name": "camping7",
+    "x": 888,
+    "y": 712,
+    "count": 2190
+  },
+  {
+    "name": "camping8",
+    "x": 897,
+    "y": 238,
+    "count": 3220
+  },
+  {
+    "name": "gate0",
+    "x": 314,
+    "y": 168,
+    "count": 124
+  },
+  {
+    "name": "gate1",
+    "x": 287,
+    "y": 221,
+    "count": 124
+  },
+  {
+    "name": "gate2",
+    "x": 121,
+    "y": 269,
+    "count": 440
+  },
+  {
+    "name": "gate3",
+    "x": 732,
+    "y": 297,
+    "count": 1234
+  },
+  {
+    "name": "gate4",
+    "x": 805,
+    "y": 561,
+    "count": 916
+  },
+  {
+    "name": "gate5",
+    "x": 644,
+    "y": 716,
+    "count": 1671
+  },
+  {
+    "name": "gate6",
+    "x": 571,
+    "y": 741,
+    "count": 1185
+  },
+  {
+    "name": "gate7",
+    "x": 478,
+    "y": 784,
+    "count": 670
+  },
+  {
+    "name": "gate8",
+    "x": 680,
+    "y": 886,
+    "count": 1996
+  },
+  {
+    "name": "ranger-base",
+    "x": 630,
+    "y": 859,
+    "count": 1996
+  }
+]

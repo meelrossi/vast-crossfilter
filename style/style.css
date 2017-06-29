@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 50px;
+}
+
+.chart {
+  margin: 20px;
+}
